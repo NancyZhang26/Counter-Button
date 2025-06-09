@@ -47,7 +47,6 @@ const App = () => {
                 Add
             </button>
 
-
             {count}
 
             <button type="button" onClick = {subOne}>
